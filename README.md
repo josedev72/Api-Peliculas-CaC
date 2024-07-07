@@ -1,5 +1,11 @@
 # Proyecto: Api - Peliculas
 
+## Integrantes:
+* José González
+* Alan Casas
+* Matías Damian Sanchez
+
+
 ## Explicación
 CRUD de tablas:
 *    Directores
@@ -13,3 +19,4 @@ CRUD de tablas:
 
 ## Información adicional
 * Link a la documentación con Swagger: http://localhost:8080/swagger-ui/index.html
+
